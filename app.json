@@ -1,0 +1,12 @@
+{
+  "name": "MyDiaryApp",
+  "displayName": "MyDiaryApp",
+  "expo": {
+    "name": "MyDiaryApp",
+    "slug": "MyDiaryApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
